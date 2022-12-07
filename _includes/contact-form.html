@@ -1,0 +1,16 @@
+<form id="fs-frm" name="basic-rsvp-form" accept-charset="utf-8" action="https://formspree.io/f/xaykrodo" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="attending">Will you be attending?</label>
+    <select name="attending" id="attending" required="">
+        <option value="" selected="" disabled="">Select</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+    </select>
+    <label for="dietaries">Please list any dietary requirements (if applicable)</label>
+    <input type="text" name="dietaries" id="dietaries" placeholder="" required="">
+    <input type="hidden" name="_subject" id="email-subject" value="RSVP">
+  </fieldset>
+  <input type="submit" value="RSVP">
+</form>
