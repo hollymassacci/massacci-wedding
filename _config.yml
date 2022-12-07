@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
-remote-theme: cnorick/jekyll-theme-easy-wedding
+theme: jekyll-theme-easy-wedding
 
 plugins:
   - jekyll-feed
