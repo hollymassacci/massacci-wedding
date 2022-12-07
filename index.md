@@ -4,4 +4,4 @@ cover: true
 title: " "
 ---
 
-![Welcome](/assets/img/welcome.png)
+![Welcome](assets/img/welcome.png)
