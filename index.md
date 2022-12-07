@@ -1,7 +1,5 @@
 ---
-layout: post
-cover: true
-title: " "
+layout: page
 ---
 
 ![Welcome](assets/img/welcome.png)
