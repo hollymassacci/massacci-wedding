@@ -2,14 +2,10 @@
 title: The Wedding Day
 ---
 
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">On the day</h2>
-</div>
-
 ## Ceremony
-The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns looking onto the lake. Enter from the main entrance on North Terrace, follow the path straight down turning left at the fork and the ceremony location will be on your right. Please arrive at 2:30pm for a 3pm sharp start.
+The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns overlooking the lake. Enter from the main entrance on North Terrace, follow the path straight down turning left at the fork and the ceremony location will be on your right. Please arrive at 2:30pm for a 3pm sharp start.
 
-![Ceremony](assets/img/ceremony.jpg)
+![Map](assets/img/map.jpg)
 
 ## Reception
 
