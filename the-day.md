@@ -5,9 +5,6 @@ title: The Wedding Day
 
 {% include wedding_map.html %}
 
-<iframe src="/_includes/wedding_map.html" height="600px" width="100%" style="border:none;"></iframe>
-
-
 ## Ceremony
 The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns overlooking the lake. Enter from the main entrance on North Terrace, follow the path straight down turning left at the fork and the ceremony location will be on your right. Please arrive at 2:30pm for a 3pm sharp start.
 
