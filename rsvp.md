@@ -11,6 +11,6 @@ Fill out one form per person attending so we can keep track of everyone's names 
 
 We can't wait to celebrate with you!
 
-## RSVP Form
+## RSVP Below
 
 {% include contact-form.html %}
