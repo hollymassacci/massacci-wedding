@@ -16,8 +16,21 @@ The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns over
 
 # Reception at Ayers House
 
-The ceremony will be followed by a reception in The Conservatory at Ayers House. Arrive from 5:30pm for pre-dinner canapes, followed by a three-course sit down dinner. For the period of time between the ceremony and reception, please take the opportunity to explore the botanic gardens or head up to Rundle Street for a coffee or a cocktail.
+The ceremony will be followed by a reception in The Conservatory at Ayers House on North Terrace, a short 7 minute walk from the ceremony site. Arrive from 5:30pm for pre-dinner canapes, followed by a three-course sit down dinner. For the period of time between the ceremony and reception, please take the opportunity to explore the botanic gardens or head up to Rundle Street for a coffee or a cocktail!
 
 ![Reception](assets/img/reception_canva.png)
 
 
+# Dress Code
+
+The dress code is cocktail attire. It'll be spring so check the weather close to the date, and keep an eye on the website as we'll post any wet-weather plans here. The ceremony will be on the lawn so keep that in mind when choosing your shoes! 
+
+
+# Kids
+
+To allow all guests to relax and enjoy themselves, we have chosen to make our special day adults only. We thank you for your understanding.
+
+
+# Social Media
+
+We'll be having an unplugged ceremony so please leave the photo and video recording to the professionals, but you're of course welcome to take photos after the ceremony and throughout the reception. If posting on social media please use the hashtag #massacciwedding so we can all find the photos later. 
