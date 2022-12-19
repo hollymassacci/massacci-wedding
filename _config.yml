@@ -50,11 +50,12 @@ author:
 menu:
   - title:             RSVP
     url:               /rsvp/
-  - title:             Our Story
-    url:               /our-story/
   - title:             The Wedding Day
     url:               /the-day/
-
+  - title:             Our Story
+    url:               /our-story/
+  - title:             Wishing Well
+    url:               /wishing-well/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
