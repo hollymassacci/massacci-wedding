@@ -2,7 +2,7 @@
 title: The Wedding Day
 ---
 
-<iframe src="/assets/wedding_map.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="/_includes/wedding_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
 ## Ceremony
