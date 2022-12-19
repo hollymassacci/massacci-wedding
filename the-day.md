@@ -26,6 +26,9 @@ The ceremony will be followed by a reception in The Conservatory at Ayers House 
 The dress code is cocktail attire. It'll be spring so check the weather close to the date, and keep an eye on the website as we'll post any wet-weather plans here. The ceremony will be on the lawn so keep that in mind when choosing your shoes! 
 
 
+{% include weather.html %}
+
+
 # Kids
 
 To allow all guests to relax and enjoy themselves, we have chosen to make our special day adults only. We thank you for your understanding.
