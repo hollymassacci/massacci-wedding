@@ -5,7 +5,7 @@ title: The Wedding Day
 <center>Our wedding day is taking place on Kaurna land in the Adelaide CBD. We would like to acknowledge the Kaurna people as the Traditional Custodians of this land and recognise their deep feelings of attachment and relationship to their Place. In <a href="https://www.nativetitlesa.org/wp-content/uploads/2020/02/SAN0086AboriginalWay0418_web.pdf">2018</a>, Native Title was awarded to the Kaurna people as Traditional Owners of the Adelaide Plains, making Adelaide the first (and currently only) capital city in Australia in which the true ownership of Aboriginal land has been legally recognised. Steven and Holly are both working in the Indigenous space and have had the great privilege to learn from and with Indigenous Australians in education and research settings. We feel very grateful for the opportunity to live, learn and grow on Kaurna Country and it's important to us both to acknowledge the great beauty, resilience and wisdom of the Kaurna people and their land.</center><br>
 
 
-{% include wedding_map.html %}
+<center>{% include wedding_map.html %}</center>
 
 
 # Ceremony at Adelaide Botanic Gardens
