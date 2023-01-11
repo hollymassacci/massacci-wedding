@@ -37,3 +37,12 @@ To allow all guests to relax and enjoy themselves, we have chosen to make our sp
 # Social Media
 
 We'll be having an unplugged ceremony so please leave the photo and video recording to the professionals, but you're of course welcome to take photos after the ceremony and throughout the reception. If posting on social media please use the hashtag #massacciwedding so we can all find the photos later. 
+
+# Transport
+
+There is street parking along Plane Tree Drive, behind the botanic gardens or along East Terrace (hourly rate). There is also underground carparks on Frome Road and Union Street. See [Parkopedia](https://www.parkopedia.com.au/parking/locations/adelaide_botanic_garden_north_tce_adelaide_south_australia_5000_australia_4768r1f965ms0k2046/?country=au&arriving=202307081400&leaving=202307081800) or [Google Maps](https://www.google.com/maps/search/carpark/@-34.9221237,138.6012484,15.86z) for further details. The venues are also easily accessible by public transport, Uber or taxis. 
+
+# Accommodation
+
+There are plenty of hotels nearby if you want to make a night of it and stay in the city. See [here](https://www.booking.com/searchresults.en-gb.html?label=adelaide%2Fcbd-39hasZeOQv161UrfT9_8rQS638077264011%3Apl%3Ata%3Ap180%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-2701236770%3Alp9070884%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c&aid=306395&ss=Adelaide+Botanic+Garden%2C+Adelaide%2C+South+Australia%2C+Australia&ssne=Adelaide+CBD&ssne_untouched=Adelaide+CBD&lang=en-gb&src=searchresults&dest_id=19613&dest_type=landmark&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=2&search_selected=true&search_pageview_id=9aee30e5578a0040&ac_meta=GhA5YWVlMzBlNTU3OGEwMDQwIAAoATICZW46F2FkZWxhaWRlIGJvdGFuaWMgZ2FyZGVuQABKAFAA&checkin=2023-10-07&checkout=2023-10-08&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&nflt=ht_id%3D204) for some options. 
+
