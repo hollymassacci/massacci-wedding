@@ -1,5 +1,6 @@
 ---
 layout: page
+cover: true
 ---
 
 ![Welcome](assets/img/welcome.png)
