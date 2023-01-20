@@ -8,3 +8,5 @@ layout: page
 ../../assets/audio/file_example.wav
 
 {% include open-embed.html %}
+</body>
+</html>
