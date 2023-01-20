@@ -3,14 +3,8 @@ title: Wishing Well
 layout: page
 ---
 
-
 ![Wishing Well](/assets/img/wishingwell.png)
 
-text
-
-../assets/audio/file_example.wav
-
-text
-
+../../assets/audio/file_example.wav
 
 {% include open-embed.html %}
