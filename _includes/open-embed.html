@@ -3,7 +3,6 @@
 	position: relative;
 	padding-bottom: 56.333%;
 	height: 0;
-    background: black;
 }
 .videoWrapper iframe {
 	position: absolute;
@@ -11,8 +10,7 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-    border: 0;
-}    
+}
 </style>
 
 <script>
@@ -52,7 +50,6 @@ function video_embed() {
                 var theInnerHTML = '<div class="videoWrapper"><iframe width="720" height="420" src="https://www.youtube.com/embed/' + youtube_id + '?rel=0&showinfo=0';
                 if(autoplay==1) theInnerHTML += '&autoplay=1';
                 if(loop==1) theInnerHTML += '&loop=1&playlist='+youtube_id+'&version=3';
-                if(p[i].innerHTML.indexOf('start=') !== -1) theInnerHTML += '&start='+p[i].innerHTML.substring(p[i].innerHTML.indexOf('start=')+6);
                 theInnerHTML += '" frameborder="0" allowfullscreen></iframe></div>';
                 p[i].innerHTML = theInnerHTML;
             }
@@ -65,10 +62,10 @@ function video_embed() {
 }
 video_embed();
 
-function wav_embed() {
+function mp3_embed() {
     var p = document.getElementsByTagName('p');
     for(var i = 0; i < p.length; i++) {
-        if(p[i].innerHTML.indexOf('.wav') !== -1) {
+        if(p[i].innerHTML.indexOf('.mp3') !== -1) {
             var str = p[i].innerHTML.split('?');
             if(str.length == 1) str[1] = '';
             var str1 = str[1];
@@ -77,7 +74,7 @@ function wav_embed() {
             str1 = str1.replace('loop=1','').replace('loop=0','');
             str1 = str1.replace('controls=0','').replace('controls=1','');
 
-            if (str[0].lastIndexOf('.wav', str[0].length - 4) === str[0].length - 4 && str1.length == 0) {
+            if (str[0].lastIndexOf('.mp3', str[0].length - 4) === str[0].length - 4 && str1.length == 0) {
                 if(str[1].indexOf('autoplay=1') !== -1) var autoplay=1; else var autoplay=0;
                 if(str[1].indexOf('loop=1') !== -1) var loop=1; else var loop=0;
                 if(str[1].indexOf('controls=0') !== -1) var controls=0; else var controls=1;
@@ -91,5 +88,5 @@ function wav_embed() {
         }
     }
 }
-wav_embed();
+mp3_embed();
 </script>
