@@ -54,6 +54,8 @@ menu:
     url:               /the-day/
   - title:             Wishing Well
     url:               /wishing-well/
+  - title:            Photos
+    url:              /photos-current/
 #  - title:            After the wedding
 #    url:              /after/
 #  - title:            Photos
