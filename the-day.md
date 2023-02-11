@@ -36,7 +36,7 @@ To allow all guests to relax and enjoy themselves, we have chosen to make our sp
 
 # Social Media
 
-We'll be having an unplugged ceremony so please leave the photo and video recording to the professionals, but you're of course welcome to take photos after the ceremony and throughout the reception. If posting on social media please use the hashtag #massacciwedding so we can all find the photos later. 
+We'll be having an unplugged ceremony so please leave the photo and video recording to the professionals, but you're of course welcome to take photos after the ceremony and throughout the reception. If posting on social media please use the hashtag #massacciwedding. After the wedding, check back here as we'll provide a Google Drive link for all guests to upload any photos they wish to share with us and other guests. You'll also be able to use this link to see photos from other guests.
 
 # Transport
 
