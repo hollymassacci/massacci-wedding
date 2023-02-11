@@ -54,12 +54,12 @@ menu:
     url:               /the-day/
   - title:             Wishing Well
     url:               /wishing-well/
-  - title:            Photos
-    url:              /photos-current/
+  - title:            Photos of Us
+    url:              /photos/
 #  - title:            After the wedding
 #    url:              /after/
 #  - title:            Photos
-#    url:              /photos
+#    url:              /photos-of-the-day
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
