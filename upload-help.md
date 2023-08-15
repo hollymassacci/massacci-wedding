@@ -4,12 +4,14 @@ To upload your photos, first click on this [link](https://drive.google.com/drive
 
 1. Click on the '+ New' icon in the top left
 
-![Help step 1](assets/img/help1.png)
+<img src="assets/img/help1.png" alt="Help: Step 1" width="800"/>
+
 
 2. Click on 'File upload'
 
-![Help step 2](assets/img/help2.png)
+<img src="assets/img/help2.png" alt="Help: Step 2" width="300"/>
+
 
 3. Select the photos you'd like to upload then click 'Open' to upload them to the shared Google Drive (remember that these photos will be shown on the wedding website for other guests to view)
 
-![Help step 3](assets/img/help3.png)
+<img src="assets/img/help3.png" alt="Help: Step 3" width="1000"/>
