@@ -8,8 +8,6 @@ title: The Wedding Day
 <center>{% include wedding_map.html %}</center>
 
 ![Wedding timeline](assets/img/timeline.png)
-
-
 # Ceremony at Adelaide Botanic Gardens
 
 The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns overlooking Kainka Wirra (*Kaurna place name meaning Red Gum Forest*), the main lake. We recommend entering from the Main Entrance on North Terrace, following the path straight down, turning left at the fork and the ceremony location will be on your right. See the maps above and below for exact locations (if the interactive map above hasn't loaded, refresh the page). Please arrive at 3:00pm as the ceremony will commence at 3:30pm sharp.
