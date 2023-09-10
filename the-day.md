@@ -7,9 +7,8 @@ title: The Wedding Day
 
 <center>{% include wedding_map.html %}</center>
 
-<center>
-  <img src="assets/img/timeline.png" alt="Wedding timeline" width="800">
-</center>
+![Wedding timeline](assets/img/timeline.png)
+
 
 # Ceremony at Adelaide Botanic Gardens
 
