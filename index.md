@@ -1,8 +1,9 @@
 ---
 layout: page
 cover: true
+title: Welcome to Holly & Steven's Wedding Website!
 ---
 
-![Welcome](assets/img/welcome.png)
-
 {% include countdown.html %}
+
+Check back in here after the wedding to see everyone's photos from the day &#9825;
