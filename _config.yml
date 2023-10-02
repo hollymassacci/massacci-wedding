@@ -48,18 +48,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             RSVP
-    url:               /rsvp/
+#  - title:             RSVP
+#    url:               /rsvp/
   - title:             The Wedding Day
     url:               /the-day/
   - title:             Wishing Well
     url:               /wishing-well/
   - title:            Photos of Us
     url:              /photos/
-#  - title:            Wedding Photos ♥️
-#    url:              /wedding-photos/
-#  - title:            Upload your photos!
-#    url:              /upload
+#  - title:           Wedding Photos ♥️
+#    url:             /upload
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
