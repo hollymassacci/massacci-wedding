@@ -10,13 +10,13 @@ title: The Wedding Day
 ![Wedding timeline](assets/img/timeline.png)
 # Ceremony at Adelaide Botanic Gardens
 
-The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns overlooking Kainka Wirra (*Kaurna place name meaning Red Gum Forest*), the main lake. We recommend entering from the Main Entrance on North Terrace, following the path straight down, turning left at the fork and the ceremony location will be on your right. See the maps above and below for exact locations (if the interactive map above hasn't loaded, refresh the page). Please arrive at 3:00pm as the ceremony will commence at 3:30pm sharp.
+The day begins at the Adelaide Botanic Gardens with a ceremony on the lawns overlooking Kainka Wirra (*Kaurna place name meaning Red Gum Forest*), the main lake. We recommend entering from the Main Entrance on North Terrace, following the path straight down, turning left at the fork and the ceremony location will be on your right. See the maps above and below for exact locations (if the interactive map above hasn't loaded, refresh the page). Please arrive from 3:00pm as the ceremony will commence at 3:30pm sharp.
 
 ![Map](assets/img/ceremony_canva.png)
 
 # Reception at Ayers House
 
-The ceremony will be followed by a reception in The Conservatory at Ayers House on North Terrace, a short 7 minute walk from the ceremony site. Arrive from 5:30pm for pre-dinner canapes, followed by a three-course sit down dinner. For the period of time between the ceremony and reception, please take the opportunity to explore the botanic gardens or head up to Rundle Street for a coffee or a cocktail!
+The ceremony will be followed by a reception in The Conservatory at Ayers House on North Terrace, a short 7 minute walk from the ceremony site. Arrive from 6:00pm for pre-dinner canapes, followed by a three-course sit down dinner (please note to advise staff of your dietary requirements when they take your order). For the period of time between the ceremony and reception, please take the opportunity to explore the botanic gardens or head up to Rundle Street for a coffee or a cocktail!
 
 ![Reception](assets/img/reception_canva.png)
 
