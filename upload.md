@@ -1,4 +1,7 @@
-# Wedding Photos
+---
+title: Wedding Photos
+fullwidth: true
+---
 
 Have a look below to see photos that guests have uploaded from the day ♥️ Follow the steps [here](https://massacciwedding.com/upload-help) if you want to upload your own photos.
 
