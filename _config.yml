@@ -35,13 +35,13 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/icon.png
+logo:                  /assets/img/icon_wedding.jpg
 favicon: /assets/img/icons/favicon.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Holly Martin
+  name:                Holly Massacci
   email:               massacciwedding@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -54,10 +54,10 @@ menu:
 #    url:               /the-day/
 #  - title:             Wishing Well
 #    url:               /wishing-well/
-  - title:            Photos of Us
-    url:              /photos/
-  - title:           Wedding Photos ♥️
-    url:             /upload
+#  - title:            Photos of Us
+#    url:              /photos/
+#  - title:           Wedding Photos ♥️
+#    url:             /upload
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -91,7 +91,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/cover.JPG
+accent_image:          /assets/img/cover_wedding.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
